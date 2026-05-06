@@ -12,12 +12,35 @@ Reference architecture for governed orchestration across applications, agents, m
 ### [Enterprise AI Portfolio Framework](https://grikard.github.io/enterprise-ai-portfolio-framework/)
 Board-level framework for sequencing AI investment by ROIC, workflow economics, risk, and readiness.
 
+### [Token Efficiency Framework](https://grikard.github.io/token-efficiency-framework/)
+Four-tab interactive framework for assessing AI displacement, token efficiency curves, workflow signal thresholds, and capital allocation posture.
+
 ### [Workflow Economics in Wealth Management](https://grikard.github.io/workflow-economics-wealth-management/)
 Applied industry case showing advisor coordination cost, AI displacement ratios, and FSC Core capital allocation logic.
 
 ### [Revenue Intelligence Economic Multiplier](https://grikard.github.io/revenue-intelligence-calculator/)
 Interactive ROIC calculator for Revenue Intelligence and enterprise AI investment scenarios.
 
+### [The 2026 Crossing — Medtech Displacement Calculator](https://grikard.github.io/medtech-displacement-calculator/)
+Interactive calculator for medtech capital equipment workflow displacement economics, crossing year, posture, and binding constraint.
+
+### [The Elena Scenario — Medtech Capital Allocation](https://grikard.github.io/medtech-capital-allocation-scenario/)
+Visual executive scenario for reallocating an enterprise medtech commercial AI capital plan across the four Workflow Economics postures.
+
+## Artifact system
+
+These artifacts are organized as a connected decision stack:
+
+| Layer | Artifact | Decision supported |
+|---|---|---|
+| Architecture | Enterprise AI Control Plane | How governed agentic AI should be orchestrated across platforms |
+| Portfolio | Enterprise AI Portfolio Framework | Where enterprise AI capital should be sequenced |
+| Economics | Token Efficiency Framework | When workflows cross the AI displacement threshold |
+| Revenue | Revenue Intelligence Economic Multiplier | How small revenue improvements translate into ROIC |
+| Industry case | Workflow Economics in Wealth Management | How workflow economics applies to financial services |
+| Industry case | Medtech Displacement Calculator | When medtech capital-equipment workflows become economically displaceable |
+| Board scenario | Elena Scenario | How a CFO reallocates AI capital across workflow postures |
+
 ## Focus areas
 
-Enterprise AI · Agentic AI · Workflow Economics · AI Control Planes · Revenue Intelligence · Salesforce Agentforce · Data Cloud · MCP / A2A · Capital Allocation · ROIC
+Enterprise AI · Agentic AI · Workflow Economics · AI Control Planes · Token Efficiency · Revenue Intelligence · Salesforce Agentforce · Data Cloud · MCP / A2A · Capital Allocation · ROIC · Medtech Commercial Operations · Wealth Management
